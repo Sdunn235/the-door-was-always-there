@@ -1,0 +1,30 @@
+{
+  "name": "strength-to-speak",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A choose-your-own-adventure detective game used as a persuasive proposal (WCTC Technical Reporting).",
+  "type": "module",
+  "engines": {
+    "node": "^22.18.0 || >=24.12.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:single": "vite build --mode single && node scripts/name-single.js",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "vue": "^3.5.44"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "@vue/test-utils": "^2.5.1",
+    "axe-core": "^4.14.0",
+    "jsdom": "^30.1.3",
+    "vite": "^8.3.5",
+    "vite-plugin-singlefile": "^2.3.4",
+    "vitest": "^5.1.0"
+  }
+}
