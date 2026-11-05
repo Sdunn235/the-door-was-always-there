@@ -71,7 +71,7 @@ export default {
 
 <template>
     <main class="phase0">
-        <h1>The Strength to Speak <span class="tag">working title</span></h1>
+        <h1>The Door Was Always There</h1>
         <p>Phase 0 delivery test. If you can see the room below and the button moves the circle, the
             single-file build works offline.</p>
 

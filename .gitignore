@@ -15,3 +15,7 @@ dist-single/
 .DS_Store
 Thumbs.db
 *.local
+
+# Instructor's handouts — kept locally, never committed (DECISIONS D-19)
+docs/1. Persuasive Proposal Assignment - 2026.md
+docs/APA Guide - Recap.md

@@ -5,7 +5,7 @@ import { fileURLToPath, URL } from 'node:url';
 
 const outDir = fileURLToPath(new URL('../dist-single/', import.meta.url));
 const from = outDir + 'index.html';
-const to = outDir + 'strength-to-speak.html';
+const to = outDir + 'the-door-was-always-there.html';
 
 if (!existsSync(from)) {
     console.error('name-single: expected ' + from + ' — did the single-file build run?');
@@ -13,4 +13,4 @@ if (!existsSync(from)) {
 }
 
 renameSync(from, to);
-console.log('Single-file build ready: dist-single/strength-to-speak.html');
+console.log('Single-file build ready: dist-single/the-door-was-always-there.html');
