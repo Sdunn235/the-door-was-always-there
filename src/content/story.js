@@ -249,7 +249,7 @@ export const story = {
     sources: {
         'SRC-01': {
             inText: 'Milwaukee County Office of the County Executive, 2026',
-            apa: 'Milwaukee County Office of the County Executive. (2026, May 27). *Milwaukee County, Medical College of Wisconsin release draft report of suicide trends pre-post COVID-19* [Press release].',
+            apa: 'Milwaukee County Office of the County Executive. (2026, May 18). *Milwaukee County, Medical College of Wisconsin release draft report of suicide trends pre-post COVID-19* [Press release].',
             url: 'https://county.milwaukee.gov/EN/County-Executive/News/Milwaukee-County-Medical-College-of-Wisconsin-Release-Draft-Report-of-Suicide-Trends-Pre-Post-COVID-19',
         },
         'SRC-02': {
@@ -289,7 +289,7 @@ export const story = {
         {
             name: 'Mental Health Emergency Center (Milwaukee)',
             detail: '1525 N. 12th Street. 24/7 walk-in psychiatric emergency care. (414) 966-3030.',
-            url: 'https://county.milwaukee.gov/EN/DHHS/BHD',
+            url: 'https://county.milwaukee.gov/EN/DHHS/BHD/Mental-Health-Emergency-Center',
         },
     ],
 };
