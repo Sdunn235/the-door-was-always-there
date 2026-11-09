@@ -249,7 +249,7 @@ export const story = {
     sources: {
         'SRC-01': {
             inText: 'Milwaukee County Office of the County Executive, 2026',
-            apa: 'Milwaukee County Office of the County Executive. (2026, May 18). *Milwaukee County, Medical College of Wisconsin release draft report of suicide trends pre-post COVID-19* [Press release].',
+            apa: 'Milwaukee County Office of the County Executive. (2026, May 27). *Milwaukee County, Medical College of Wisconsin release draft report of suicide trends pre-post COVID-19* [Press release].',
             url: 'https://county.milwaukee.gov/EN/County-Executive/News/Milwaukee-County-Medical-College-of-Wisconsin-Release-Draft-Report-of-Suicide-Trends-Pre-Post-COVID-19',
         },
         'SRC-02': {
