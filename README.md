@@ -2,7 +2,17 @@
 
 A short choose-your-own-adventure detective game that serves as a **persuasive proposal** for WCTC Technical Reporting (801-197). It explores barriers that may keep men in Milwaukee County from seeking mental-health support. The game is the medium. The argument, evidence, and APA citations are the assignment.
 
-> **Status:** Phase 1 (project docs). The story, research, and proposed solution are works in progress. All cases are fictional composites.
+> **Status:** Playable. The game runs start to finish; the scene text is still `[PLACEHOLDER]` with a writing brief per scene, waiting on the author. All characters are fictional.
+
+## Write the story
+
+All the words live in **`src/content/story.js`**. Each scene has a `brief` telling you what it must do and which source to cite. Replace each `[PLACEHOLDER ...]` with your own text, then:
+
+```powershell
+npm run dev            # see it live while you write
+npm run placeholders   # lists what's left; must say 0 before handing in
+npm test               # checks links, citations, and order
+```
 
 ## Run it
 
